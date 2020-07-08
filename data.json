@@ -53,15 +53,15 @@
         "price": "$9.99",
         "items": [
             {
-                "ref": 3002,
+                "itemId": 3002,
                 "amount": 1000
             },
             {
-                "ref": 2002,
+                "itemId": 2002,
                 "amount": 10
             },
             {
-                "ref": 1002,
+                "itemId": 1002,
                 "amount": 1
             }
         ]
